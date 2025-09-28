@@ -22,14 +22,13 @@ Level 1: Basic Cipher (Caesar, Hill, Playfair, etc.)<br>
 Level 2: Hashing (MD5, SHA, etc.)<br>
 
 Level 3: Hashing + Salt Rounds (bcrypt)
-
 Level 4: Session-Based Authentication (bcrypt + Passport.js + Cookies ✅ this project)<br>
 ---
 ## 📷 Gallery
 
 | SignUp Page | Login Page |
 |-------------|------------|
-| ![al4](./imgg/al4.png) | ![al3](./imgg/al3.png) |
+| ![al4](./imgg/al4.png) | ![a3](./imgg/a3.png) |
 
 | Register Page | Secret Page |
 |---------------|-------------|
