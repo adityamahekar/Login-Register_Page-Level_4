@@ -19,9 +19,40 @@ Level 2: Hashing (MD5, SHA, etc.)<br>
 Level 3: Hashing + Salt Rounds (bcrypt)<br>
 Level 4: Session-Based Authentication (bcrypt + Passport.js + Cookies)<br>
 Level 5: Environment Variables + Session-Based Authentication<br>
-
-
 ---
+📂 Project Structure:<br><br>
+Authentication Lv.5<br>
+├── .DS_Store<br>
+├── .gitignore<br>
+├── README.md<br>
+├── css<br>
+    └── styles.css<br>
+├── imgg<br>
+    ├── a3.png<br>
+    ├── al1.png<br>
+    ├── lgl1.png<br>
+    └── lv33.png<br>
+├── index.js<br>
+├── package-lock.json<br>
+├── package.json<br>
+├── partials<br>
+    ├── footer.ejs<br>
+    └── header.ejs<br>
+├── public<br>
+    └── css<br>
+    │   └── styles.css<br>
+├── queries.sql<br>
+└── views<br>
+    ├── home.ejs<br>
+    ├── login.ejs<br>
+    ├── partials<br>
+        ├── footer.ejs<br>
+        └── header.ejs<br>
+    ├── register.ejs<br>
+    └── secrets.ejs<br>
+---
+
+
 ## 📷 Gallery
 
 | SignUp Page | Login Page |
