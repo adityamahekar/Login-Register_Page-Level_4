@@ -10,7 +10,7 @@ Access a protected secrets page only when authenticated.<br>
 Logout (session destroyed).<br>
 
 The project follows a modular EJS structure using partials (header.ejs, footer.ejs) and serves static assets through the public/ folder.<br>
----<br>
+---
 
 🔑 Levels of Authentication:<br>
 Level 1: Basic Cipher (Caesar, Hill, Playfair, etc.)<br>
