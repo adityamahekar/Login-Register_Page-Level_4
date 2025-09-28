@@ -2,6 +2,7 @@
 
 This project is a Login & Register Authentication System built with Node.js, Express, EJS, PostgreSQL, Passport.js, express-session, and cookies.
 It demonstrates Level 4 Authentication, where user passwords are securely salted & hashed (bcrypt.js), and authentication is managed with sessions and cookies using Passport.js.
+---
 
 Users can:<br>
 Register with an email and password.<br>
@@ -9,6 +10,8 @@ Log in securely (session stored in a cookie).<br>
 Access a protected secrets page only when authenticated.<br>
 Logout (session destroyed).<br>
 The project follows a modular EJS structure using partials (header.ejs, footer.ejs) and serves static assets through the public/ folder.<br>
+
+
 ---
 🔑 Levels of Authentication:<br><br>
 Level 1: Basic Cipher (Caesar, Hill, Playfair, etc.)<br>
