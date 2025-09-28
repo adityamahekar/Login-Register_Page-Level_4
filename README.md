@@ -1,6 +1,6 @@
-🔐 Login & Register Page – Level 4 Authentication (Sessions + Passport + Cookies)
+##🔐 Login & Register Page – Level 4 Authentication (Sessions + Passport + Cookies)
 
-This project is a Login & Register Authentication System built with Node.js, Express, EJS, PostgreSQL, Passport.js, express-session, and cookies.
+#This project is a Login & Register Authentication System built with Node.js, Express, EJS, PostgreSQL, Passport.js, express-session, and cookies.
 It demonstrates Level 4 Authentication, where user passwords are securely salted & hashed (bcrypt.js), and authentication is managed with sessions + cookies using Passport.js.
 ---
 Users can:<br>
