@@ -13,45 +13,43 @@ The project follows a modular EJS structure using partials (header.ejs, footer.e
 
 ---
 
-🔑 Levels of Authentication:
-
-Level 1: Basic Cipher (Caesar, Hill, Playfair, etc.)
-Level 2: Hashing (MD5, SHA, etc.)
-Level 3: Hashing + Salt Rounds (bcrypt)
-Level 4: Session-Based Authentication (bcrypt + Passport.js + Cookies)
-Level 5: Environment Variables + Session-Based Authentication
+🔑 Levels of Authentication:<br><br>
+Level 1: Basic Cipher (Caesar, Hill, Playfair, etc.)<br>
+Level 2: Hashing (MD5, SHA, etc.)<br>
+Level 3: Hashing + Salt Rounds (bcrypt)<br>
+Level 4: Session-Based Authentication (bcrypt + Passport.js + Cookies)<br>
+Level 5: Environment Variables + Session-Based Authentication<br>
 ---
-📂 Project Structure:
-
-Authentication Lv.5
-├── .DS_Store
-├── .gitignore
-├── README.md
-├── css
-│   └── styles.css
-├── imgg
-│   ├── a3.png
-│   ├── al1.png
-│   ├── lgl1.png
-│   └── lv33.png
-├── index.js
-├── package-lock.json
-├── package.json
-├── partials
-│   ├── footer.ejs
-│   └── header.ejs
-├── public
-│   └── css
-│       └── styles.css
-├── queries.sql
-└── views
-    ├── home.ejs
-    ├── login.ejs
-    ├── partials
-    │   ├── footer.ejs
-    │   └── header.ejs
-    ├── register.ejs
-    └── secrets.ejs
+📂 Project Structure:<br><br>
+Authentication Lv.5<br>
+├── .DS_Store<br>
+├── .gitignore<br>
+├── README.md<br>
+├── css<br>
+│ └── styles.css<br>
+├── imgg<br>
+│ ├── a3.png<br>
+│ ├── al1.png<br>
+│ ├── lgl1.png<br>
+│ └── lv33.png<br>
+├── index.js<br>
+├── package-lock.json<br>
+├── package.json<br>
+├── partials<br>
+│ ├── footer.ejs<br>
+│ └── header.ejs<br>
+├── public<br>
+│ └── css<br>
+│ └── styles.css<br>
+├── queries.sql<br>
+└── views<br>
+├── home.ejs<br>
+├── login.ejs<br>
+├── partials<br>
+│ ├── footer.ejs<br>
+│ └── header.ejs<br>
+├── register.ejs<br>
+└── secrets.ejs<br>
 
 ---
 
