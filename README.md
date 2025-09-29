@@ -20,7 +20,7 @@ Level 2: Hashing (MD5, SHA, etc.)<br>
 Level 3: Hashing + Salt Rounds (bcrypt)<br>
 Level 4: Session-Based Authentication (bcrypt + Passport.js + Cookies)<br>
 Level 5: Environment Variables + Session-Based Authentication<br>
-
+Level 6: OAuth (Open Authorization) 
 
 ---
 📂 Project Structure:<br><br>
